@@ -7,9 +7,11 @@ Saya adalah Mahasiswa [Universitas Madura](https://unira.ac.id/) dengan Program 
 
 Saya sangat tertarik pada teknologi teknologi dalam Web Programming dan saya tertarik untuk menjadi Game Developer.<br>
 
-Jika kamu tertarik untuk mencoba game yang telah saya buat, bisa langsung download via [Google Drive](https://drive.google.com/drive/folders/12jyaO0oebFnpjXflJ0lW24GvjzALRUts?usp=sharing) yang sementara hanya tersedia untuk PC.
+Jika kamu ingin mencoba game yang telah saya buat, bisa langsung download via [Google Drive](https://drive.google.com/drive/folders/12jyaO0oebFnpjXflJ0lW24GvjzALRUts?usp=sharing) yang sementara hanya tersedia untuk PC.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/syarifyahya.sh/)ku ya.
+Atau jika kamu tertarik untuk mengunjungi web yang telah saya buat, bisa langsung klik [E-katalog Apotek](https://e-katalog-apotik-sehat.000webhostapp.com/).<br>
+
+Kamu juga bisa berkenalan dengan saya, silakan ikuti akun [Instagram](https://www.instagram.com/syarifyahya.sh/)ku ya.<br>
 
 <!--
 **syarifyahyash/syarifyahyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
