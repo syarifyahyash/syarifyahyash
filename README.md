@@ -2,13 +2,10 @@
 ### Perkenalkan nama saya Muhammad Syarif Yahya S.H
 
 Saya seorang **Web Developer**.<br>
-
 Saya adalah Mahasiswa [Universitas Madura](https://unira.ac.id/) dengan Program Studi Teknik Informatika.<br>
 
 Saya sangat tertarik pada teknologi teknologi dalam Web Programming dan saya tertarik untuk menjadi Game Developer.<br>
-
 Jika kamu ingin mencoba game yang telah saya buat, bisa langsung download via [Google Drive](https://drive.google.com/drive/folders/12jyaO0oebFnpjXflJ0lW24GvjzALRUts?usp=sharing) yang sementara hanya tersedia untuk PC.<br>
-
 Atau jika kamu tertarik untuk mengunjungi web yang telah saya buat, bisa langsung klik [E-katalog Apotek](https://e-katalog-apotik-sehat.000webhostapp.com/).<br>
 
 Kamu juga bisa berkenalan dengan saya, silakan ikuti akun [Instagram](https://www.instagram.com/syarifyahya.sh/)ku ya.<br>
