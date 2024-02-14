@@ -10,6 +10,13 @@ Atau jika kamu tertarik untuk mengunjungi web yang telah saya buat, bisa langsun
 
 Kamu juga bisa berkenalan dengan saya, silakan ikuti akun [Instagram](https://www.instagram.com/syarifyahya.sh/)ku ya.<br>
 
+<p align="left">
+<a href="https://github.com/syarifyahyash">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syarifyahyash&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syarifyahyash&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **syarifyahyash/syarifyahyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
